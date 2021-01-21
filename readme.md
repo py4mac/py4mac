@@ -21,7 +21,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/py4mac">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=py4mac&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=py4mac&layout=compact&langs_count=8&theme=algolia"/>
 </a>
@@ -32,5 +32,5 @@
 <p align="center">
 <a href="https://www.py4mac.com"><img src="https://img.shields.io/badge/-py4mac.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/pierreyvesboisbunon"><img src="https://img.shields.io/badge/-PierreYves%20Boisbunon-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:boisbu@gmail.com"><img src="https://img.shields.io/badge/-boisbu@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:boisbu@gmail.com"><img src="https://img.shields.io/badge/-pierreyves.boisbunon@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
