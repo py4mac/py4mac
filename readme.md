@@ -30,7 +30,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.py4mac.com"><img src="https://img.shields.io/badge/-py4mac.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<!--<a href="https://www.py4mac.com"><img src="https://img.shields.io/badge/-py4mac.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>-->
 <a href="https://linkedin.com/in/pierreyvesboisbunon"><img src="https://img.shields.io/badge/-PierreYves%20Boisbunon-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:boisbu@gmail.com"><img src="https://img.shields.io/badge/-pierreyves.boisbunon@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:pierreyves.boisbunon@gmail.com"><img src="https://img.shields.io/badge/-pierreyves.boisbunon@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
