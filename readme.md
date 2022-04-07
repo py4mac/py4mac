@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 &nbsp;Hi there 👋
 
-💡 &nbsp;I am Machine Learning Enginner.
+💡 &nbsp;I am Software Enginner.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -11,7 +11,6 @@
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
