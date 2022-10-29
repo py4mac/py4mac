@@ -8,10 +8,10 @@
 ### 🛠 &nbsp;Tech Stack
 
 
-![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go&logoColor=FFA518)&nbsp;
-![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=Rust&logoColor=FFA518)&nbsp;
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go)&nbsp;
+![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=Rust)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -25,6 +25,5 @@
 
 ### 🚀 &nbsp;Working progress
 
-🚧&nbsp; Working on WASM project.</br>
-🚧&nbsp; Preparating CKAD certification.</br>
-🚧&nbsp; Fighting with Rust language.</br>
+🚧&nbsp; WASM</br>
+🚧&nbsp; Rust</br>
