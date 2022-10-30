@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 &nbsp;Hi there 👋
 
-💡 &nbsp;I am Software Enginner.
+I am Software Enginner.
 
 ### 🛠 &nbsp;Tech Stack
 
